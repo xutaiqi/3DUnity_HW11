@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D0C614EA-5104-546E-F2BA-1289409D68AB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VuforiaButtonEventHandler.cs">
+    <Files>
+      <File FileName="Assets/VuforiaButtonEventHandler.cs" Line="24" Column="40" />
+      <File FileName="Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AR__HW PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
